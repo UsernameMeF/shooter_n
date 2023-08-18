@@ -13,7 +13,7 @@ display.set_icon(image.load("rocket_n.png")) # Змінюємо іконку
 
 back = transform.scale(image.load('galaxy_n.png'), (W, H)) # Робимо фон
 #clock = time.Clock()
-lost = 0 # 
+lost = 0 # print
 killed = 0
 life = 3
 
